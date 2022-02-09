@@ -1,0 +1,225 @@
+@media (max-width: 1265px){
+    .rewiews-slider .slick-list {
+  margin: 0;
+}
+.rewiews-slider .slick-slide{
+  margin: 0;  
+}
+   .rewiews-box {
+       box-shadow: none;
+       box-shadow: 0 0 0 0 transparent;
+   }
+}
+
+@media (max-width: 1240px){
+   .logozestomonial-item {
+       flex-wrap: wrap; 
+   }
+   
+}
+   .logozestomonial-item__img {        
+       width: 100;
+       margin-top: 20px;
+       margin-bottom: 20px;        
+       justify-content: center;
+       align-items: center;
+}
+
+@media (max-width: 1160px){
+   .price-items__all{       
+       justify-content: center;        
+       flex-wrap: wrap;
+       align-items: center;
+       align-content: space-around;
+   }
+   .price_items{
+       justify-content: center;        
+       flex-wrap: wrap;
+       align-items: center;
+       align-content: center;
+       
+   }
+   .price-item{     
+       /*margin-left: 30px;*/
+       max-width: 100;
+       margin-bottom: 50px;
+   }
+   .price-item_number{
+       margin: 0 auto;
+       left: 0;
+       right: 0;
+   }
+  
+}
+@media (max-width: 1105px){
+   .rewiews-slider {
+       margin-top: 60px;        
+}
+   .rewiews-box{
+       margin: 0 auto;
+       max-width: 520px;
+   }
+       
+}
+
+@media (max-width: 1065px){
+   .top-info{
+       max-width: 425px;
+       
+   }
+   .footer__inner {
+       flex-wrap: wrap;        
+   }
+   .footer-col__logo{
+       width: 100%;
+       margin-bottom: 30px;
+       
+   }
+}
+@media (max-width: 992px){
+   .menu_list{
+       display: none;
+       position: absolute;
+       top: 87px;
+       left: 0;
+       right: 0;
+       width: 100%;
+       text-align: center;
+       border-top: 1px solid #000;
+        z-index: 5;
+   } 
+   .menu_list li {
+       margin-left: 0;
+   }
+   .menu_list a {
+       display: block; 
+       padding: 10px 0;
+       border-bottom: 1px solid #000;
+       background-color: #fff;
+      
+   }
+   .btn__menu {
+       display: block;
+   }
+}
+@media (max-width: 940px){
+   .top-info{
+       max-width: 325px;        
+   }
+}
+@media (max-width: 855px){
+   .top-images__box img{
+       width: 300px;        
+   }
+   .top-images__circle{
+       width: 160px;
+       height: 160px;
+       top: -30px;
+       right: -30px;
+   }    
+}
+
+@media (max-width: 740px){
+   .top__inner{
+       flex-wrap: wrap;
+       justify-content: center;
+   }
+   .top-info{
+       max-width: 100%;
+       margin-right: 0;
+       margin-bottom: 75px;
+   }
+   .top,
+   .rewiews,
+   .price{
+       padding-top: 50px;
+       padding-bottom: 80px;        
+   }
+   .footer-form {
+       width: 100%;
+       margin-top: 30px;
+   }
+   .footer__inner{
+       justify-content: flex-start;
+   }
+}
+
+@media (max-width: 580px){
+   .rewiews-box{
+       display: block;
+   } 
+   .rewiews-box__images{
+       width: 100%;
+       min-height: 200px;
+   }
+   .rewiews-box__content{
+       width: 100%;
+       padding: 20px;
+       min-height: 260px;
+   }
+   .rewiews-slider .slick-slide{       
+       padding-bottom: 30px;
+   }
+}
+
+@media (max-width: 399px){
+   .top-info__title { 
+   margin-top: 40px;
+   margin-bottom: 30px;
+   font-size: 40px;
+   line-height: 42px;
+   text-align: center;    
+}
+   .top-images__circle{    
+       top: -5px;
+       right: 10px;
+   } 
+   .top-images__title {   
+   width: 120px;
+}
+   .top-images__price {
+   font-size: 45px;
+   font-weight: 700;
+   margin-bottom: 7px;
+}
+   .top-images__date {    
+   width: 120px;
+}
+    .title {
+       font-size: 33px;
+       line-height: 40px;
+   }
+   .price__deskr {    
+   margin: 35px auto 58px;
+}
+   .price {
+   padding: 50px 0 80px;
+}
+   .price-item {
+       padding: 0 20px 60px;
+   }
+   
+   .footer-menu{
+       margin-left: 5vw;
+       margin-bottom: 30px;
+       width: 100%;        
+   }
+   .footer__logo, .footer__text{
+       margin-left: 5vw;
+   }
+   .footer__list footer-form {
+      margin-left: 5vw; 
+   }
+   .footer__list {
+      margin-left: 5vw;  
+   }
+   .footer-form{
+       margin-left: 5vw;     
+   }     
+}
+
+@media (min-width: 992px){
+   .menu__list {
+       display: flex !important;
+   }
+}
