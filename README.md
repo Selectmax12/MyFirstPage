@@ -1,1 +1,1 @@
-[first site]:https://Selectmax12.github.io/my.first.page/
+https://selectmax12.github.io/my.first.page/index.html
