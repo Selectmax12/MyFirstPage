@@ -1,1 +1,1 @@
-https://selectmax12.github.io/my.first.page/index.html
+[Обычная ссылка в строке](https://www.google.com)
